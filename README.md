@@ -1,6 +1,6 @@
 # Kiril Zdravkov
 
-I automate the work that shouldn’t exist. I build with AI agents and use what I build, from keeping my own books to finding a task I mentioned in a voice note.
+I automate the work that shouldn’t exist. I build with AI agents and use what I build, from keeping my own books to finding a task I mentioned in a voice note. I also use C# in Unity to build 3D gameplay and level design tools.
 
 [Portfolio](https://kirilzdravkov.com/) · [LinkedIn](https://www.linkedin.com/in/kirilzdravkov) · [Email](mailto:hello@kirilzdravkov.com)
 
