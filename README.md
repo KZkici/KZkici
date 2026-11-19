@@ -9,10 +9,10 @@ I automate the work that shouldn’t exist. I build with AI agents and use what 
 **[Receipt Dashboard](https://kirilzdravkov.com/#app-finance)**  
 I use this for my daily bookkeeping. When I import a bank statement, I can match a deposit to the invoice it pays and see which transactions still need review.
 
-**Voice Notes** · `Python` `faster-whisper` `FFmpeg`  
+**Voice Notes**  
 I can trace a task back to the words that prompted it. In my tests, removing background noise made the transcripts less accurate, so I transcribe the original on my GPU and clean up the copy I listen to.
 
-**[Tools Hub](https://kirilzdravkov.com/#app-tools)** · `Python` `Caddy` `Tailscale`  
+**[Tools Hub](https://kirilzdravkov.com/#app-tools)**  
 I run 26 tools on my server behind one login. When someone needs one of them, I can give them access to just that app.
 
 ## GitHub stats
