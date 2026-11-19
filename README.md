@@ -6,7 +6,7 @@ I automate the work that shouldn’t exist. I build with AI agents and use what 
 
 ## Selected projects
 
-**[Receipt Dashboard](https://kirilzdravkov.com/#app-finance)** · `TypeScript` `React` `tRPC` `TiDB`  
+**[Receipt Dashboard](https://kirilzdravkov.com/#app-finance)**  
 I use this for my daily bookkeeping. When I import a bank statement, I can match a deposit to the invoice it pays and see which transactions still need review.
 
 **Voice Notes** · `Python` `faster-whisper` `FFmpeg`  
